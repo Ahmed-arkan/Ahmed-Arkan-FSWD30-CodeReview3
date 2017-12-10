@@ -1,0 +1,151 @@
+
+
+/**
+ * Style for the Car insurances (page 2)
+ */
+
+
+
+
+
+
+							/*===================== Body style =======================*/
+
+							
+
+body{
+	box-sizing: border-box;
+	margin: 0 auto;
+	font-family: arial;
+	background-color: #406a80;
+
+}
+section{
+	margin: 0 auto;
+	text-align: center;
+	background-color: #406a80;
+	border-top: 10px;
+}
+
+
+
+
+
+
+							/*===================== Head style =======================*/
+
+
+
+nav{
+	width: 100%;
+	height: 140px;
+	background-color: #f4f4f4;
+	text-align: center;
+	line-height: 1.5;
+
+}
+ nav span{
+ 	color:#e78244;
+ 	font-size: 75px;
+}
+span.comp{
+	font-family:'Kanit', sans-serif;
+	font-size: 85px;
+}
+p{
+	color:#e78244;
+ 	font-size: 40px;
+
+}
+
+
+
+
+
+
+							/*===================== input style =======================*/
+
+
+
+.myInput {
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  padding: 13px 28px 13px 28px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  color: #FF640B;
+}
+
+
+
+
+
+							/*===================== Table style =======================*/
+
+
+
+
+#myTable {
+text-align: center;
+  font-size: 18px;
+margin-left: 30%;
+	
+}
+
+#myTable th, #myTable td {
+	color: white;
+  text-align: left;
+  padding: 12px;
+  font-size: 43px;
+}
+
+select{
+	text-align: left;
+  font-size: 20px;
+  color:#e78244;
+  width: 250px;
+  height: 60px
+
+}
+#myTable tr, #td{
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+
+
+
+
+
+							/*===================== Footer style =======================*/
+
+
+footer{
+
+	width: 100%;
+	height: 180px;
+	background-color: #f4f4f4;
+	text-align: center;
+	line-height: 1.5;
+	padding-bottom:8px;
+}
+
+
+
+
+
+
+							/*===================== Button style =======================*/
+
+
+
+.btn{
+	border-radius: 15px;
+	border: 1px solid #323232;
+    color: white;
+    padding: 10px 55px 10px 55px;
+    font-size: 28px;
+    cursor: pointer;
+}
+.success {background-color: #4CAF50;}
+.success:hover {background-color: #46a049;}
